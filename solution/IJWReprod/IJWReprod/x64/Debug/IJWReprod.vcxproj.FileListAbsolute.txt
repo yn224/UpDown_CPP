@@ -1,0 +1,2 @@
+C:\Users\naale\source\repos\IJWReprod\IJWReprod\x64\Debug\IJWReprod.vcxproj.AssemblyReference.cache
+C:\Users\naale\source\repos\IJWReprod\IJWReprod\x64\Debug\IJWReprod.vcxproj.SuggestedBindingRedirects.cache

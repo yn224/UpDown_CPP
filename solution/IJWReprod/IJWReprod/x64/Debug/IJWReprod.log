@@ -1,0 +1,6 @@
+﻿  IJWReprod.cpp
+C:\Users\naale\source\repos\IJWReprod\IJWReprod\IJWReprod.cpp(9,1): warning C4005: '__CLR_VER': macro redefinition
+C:\Users\naale\source\repos\IJWReprod\IJWReprod\pch.cpp : message : see previous definition of '__CLR_VER'
+C:\Users\naale\source\repos\IJWReprod\IJWReprod\IJWReprod.cpp(9,1): warning C4651: '/D__CLR_VER=40804470' specified for precompiled header but not for current compile
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  IJWReprod.vcxproj -> C:\Users\naale\source\repos\IJWReprod\x64\Debug\IJWReprod.exe
